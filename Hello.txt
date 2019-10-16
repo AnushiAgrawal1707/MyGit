@@ -2,9 +2,9 @@
 
 class HelloGit{
 
-myMethod(){
-syso("this is my method");
-}
+	static void myMethod(){
+		syso("this is my method");
+	}
 
 	public static void main(String args){
 
