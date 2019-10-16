@@ -1,11 +1,11 @@
-This is my java application. Hello Git!
+//This is my java application. Hello Git!
 
 class HelloGit{
 
 	public static void main(String args){
 
-		System.out.println("java application to print: ------------welcome to git");
+		System.out.println("this will print:---***welcome to git***");
 
-}
+	}	
 
 }
