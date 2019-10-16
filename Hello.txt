@@ -2,6 +2,10 @@
 
 class HelloGit{
 
+myMethod(){
+syso("this is my method");
+}
+
 	public static void main(String args){
 
 		System.out.println("this will print:---***welcome to git***");
