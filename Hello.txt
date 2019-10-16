@@ -2,9 +2,9 @@ This is my java application. Hello Git!
 
 class HelloGit{
 
-public static void main(String args){
+	public static void main(String args){
 
-sysout("welcome to git");
+		System.out.println("welcome to git");
 
 }
 
